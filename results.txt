@@ -1,0 +1,32 @@
+# 100 * 25
+
+fastapi and gunicorn
+
+run_fa
+end time 14.11295199394226
+
+run_fa_gu
+end time 14.100045919418335
+
+flask and gunicorn
+
+run_gu_w4t2
+end time 74.11306405067444
+
+run_gu_w6t4
+end time 51.075740814208984
+
+run_gu_w6t12
+end time 50.132627964019775
+
+run_gu_w12t2
+end time 27.059075832366943
+
+run_gu_ge
+end time 15.08978009223938
+
+run_gu_gew6t4
+end time 13.078802108764648
+
+run_gu_el
+end time 15.065787315368652
