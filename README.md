@@ -2,6 +2,12 @@
 
 
 ## Pre-requirements
+* Install requirements
+<pre>
+pip install -r requirements.txt
+</pre>
+
+OR
 * Install Flask
 
 <pre>
@@ -11,6 +17,11 @@ pip install flask
 * Install gunicorn
 <pre>
 pip install gunicorn
+</pre>
+
+* Install eventlet
+<pre>
+pip install eventlet
 </pre>
 
 * Install fastapi
