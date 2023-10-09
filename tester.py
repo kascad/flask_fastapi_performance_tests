@@ -4,6 +4,7 @@ from concurrent import futures
 
 total_requests = 100
 max_concurrent_requests = 25
+
 data = range(total_requests)
 start_time = time.time()
 
